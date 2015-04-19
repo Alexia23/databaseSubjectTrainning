@@ -1,9 +1,4 @@
-## Info ##
 
-Name:  WangQing 
-Num:   2011011239
-Email: wang1160997741@163.com
-Phone: 18810656265
 
 
 ## How to Run ##
